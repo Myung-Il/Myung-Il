@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F7F5,33:9AC8CD,66:0E46A3,100:1E0342&height=250&section=header&text=Hello;&fontColor=ffffff&fontSize=90)
 
+<h1 align="center"> I'm 🌱 Developer </h1> <br>
+
 <h3 align="center">⌨️ Tech Stack 🛠</h3> <br>
 
 <p align="center">
