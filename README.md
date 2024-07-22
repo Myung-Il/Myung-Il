@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1F7F5,33:9AC8CD,66:0E46A3,100:1E0342&height=250&section=header&text=Hello;&fontColor=ffffff&fontSize=90)
 
+<h3 align="center">⌨️ Tech Stack 🛠</h3> <br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
