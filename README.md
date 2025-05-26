@@ -2,7 +2,6 @@
 <br>
 
 <h1 align="center"> I'm 🌱 Developer :) </h1>
-
 ![Myungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myung-Il&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktr040415)](https://solved.ac/ktr040415/)
 <br>
@@ -12,6 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
+  <br>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp 
