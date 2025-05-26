@@ -2,9 +2,11 @@
 <br>
 
 <h1 align="center"> I'm 🌱 Developer :) </h1>
-<h2 align="center"> Git </h2><p align="center">
+<h2 align="center"> Git </h2>
+<p align="center">
 
-![Myungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myung-Il&show_icons=true&theme=dark)</p>
+  ![Myungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myung-Il&show_icons=true&theme=dark)
+</p>
 
 <h2 align="center"> Baek Joon </h2>
 
