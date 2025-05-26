@@ -22,6 +22,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/></a>&nbsp
 </p>
